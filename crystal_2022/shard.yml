@@ -1,0 +1,13 @@
+name: crystal_2022
+version: 0.1.0
+
+authors:
+  - Grant West <grant.west@pm.me>
+
+targets:
+  crystal_2022:
+    main: src/crystal_2022.cr
+
+crystal: 1.9.2
+
+license: MIT
